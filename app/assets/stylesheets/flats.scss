@@ -1,0 +1,16 @@
+// Place all the styles related to the flats controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.image {
+  object-fit: cover;
+  height: 300px;
+}
+
+.extra {
+  height: 20px;
+}
+#text {
+  color: white;
+  padding: 0;
+  margin: 0;
+}
